@@ -34,6 +34,8 @@
 	},
 	"_moduleAliases": {
 		"@root": "./src",
-		"routes": "./routes"
+		"application": "./application",
+		"domain": "./domain",
+		"infrastructure": "./infrastructure"
 	}
 }
